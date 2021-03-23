@@ -8,7 +8,7 @@
         "telegram-bot",
         "botzhub"
     ],
-    "repository": "https://github.com/xditya/TelethonBot",
+    "repository": "https://github.com/sahilchanna/TelethonBot",
     "website": "xditya.me",
     "success_url": "https://t.me/BotzHub",
     "env": {
